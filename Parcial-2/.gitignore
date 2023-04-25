@@ -1,0 +1,6 @@
+files/
+output/
+.vscode/
+__pycache__/
+
+data.json

@@ -1,0 +1,4 @@
+MAX_CHUNK_SIZE = 512 * 1024 * 1024
+
+INPUT_PATH = './files'
+OUTPUT_PATH = './output'
